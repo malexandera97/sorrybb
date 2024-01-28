@@ -38,14 +38,14 @@ section {
     display: grid;
     grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
     grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-    width: 700px;
+    width: 600px;
     height: 350px;
     align-items: center;
     justify-items: center;
 }
 
 body {
-    max-width: 700px;
+    max-width: 600px;
     max-height: 350px;
     margin: 0 auto;
     background-color: pink;
@@ -59,7 +59,7 @@ p {
     div {
         width: 300px;
         height: 200px;
-        background-image: url("/foto/northva11ejo.gif");
+        background-image: url("northva11ejo.gif");
         animation: miAnimacion 5s infinite alternate;
       }
       
