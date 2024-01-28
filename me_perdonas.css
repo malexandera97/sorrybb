@@ -39,14 +39,14 @@ section {
     grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
     grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
     width: 500px;
-    height: 250px;
+    height: 200px;
     align-items: center;
     justify-items: center;
 }
 
 body {
     max-width: 500px;
-    max-height: 250px;
+    max-height: 200px;
     margin: 0 auto;
     background-color: pink;
     background-repeat: no-repeat; 
