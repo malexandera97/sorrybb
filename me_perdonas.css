@@ -38,14 +38,14 @@ section {
     display: grid;
     grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
     grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-    width: 600px;
+    width: 500px;
     height: 350px;
     align-items: center;
     justify-items: center;
 }
 
 body {
-    max-width: 600px;
+    max-width: 500px;
     max-height: 350px;
     margin: 0 auto;
     background-color: pink;
